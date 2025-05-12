@@ -23,7 +23,7 @@ Substitua o valor da variável link pelo endereço desejado:
 python
 Copiar
 Editar
-link = "https://seusite.com/sistema-garantias"
+link = "https://github.com/SimLuiz"
 Salve o arquivo e execute no terminal:
 
 bash
